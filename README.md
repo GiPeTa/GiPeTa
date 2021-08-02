@@ -20,5 +20,5 @@
   <a href = "mailto:contato.royalstorebr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.deezer.com/br/profile/1675428066" target="_blank"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GiPeTa/GiPeTa/blob/output/github-contribution-grid-snake.svg)
 </div>
