@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/GiPeTa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GiPeTa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GiPeTa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiPeTa&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
