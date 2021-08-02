@@ -1,7 +1,7 @@
 ### Oiii! Bem vindo ao meu perfil!
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/GiPeTa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GiPeTa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiPeTa&theme=dark"/>
 </div>
@@ -21,4 +21,5 @@
   <a href="https://www.deezer.com/br/profile/1675428066" target="_blank"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/GiPeTa/GiPeTa/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
