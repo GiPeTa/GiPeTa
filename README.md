@@ -1,5 +1,7 @@
 ### Oiii! Bem vindo ao perfil do giovanni_
 
+Não sou dev, você está enganado! Só escrevo coisas que se parecem muito com códigos de programação.
+
  <div>
   <a href="https://github.com/GiPeTa">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiPeTa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
