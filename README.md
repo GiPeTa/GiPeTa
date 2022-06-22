@@ -1,6 +1,21 @@
-### Oiii! Bem vindo ao perfil do giovanni_
+```js
+const RodyData = {
+    name: "Rodrigo Couto",
+    age: 22,
+    skills: [
+        "JavaScript",
+        "Developer Discord Bots",
+        "Professional Sleeper",
+        "Hamburguer Lover"
+    ],
+    missions: {
+        "make a discord bot": true,
+        "travel around the world": loading()
+    },
+    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code"]
+}
 
-Não sou dev, você está enganado! Só escrevo coisas que se parecem muito com códigos de programação.
+console.log(RodyData)```
 
  <div>
   <a href="https://github.com/GiPeTa">
