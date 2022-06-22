@@ -1,22 +1,4 @@
-`const RodyData = {
-    name: "Rodrigo Couto",
-    age: 22,
-    skills: [
-        "JavaScript",
-        "Developer Discord Bots",
-        "Professional Sleeper",
-        "Hamburguer Lover"
-    ],
-    missions: {
-        "make a discord bot": true,
-        "travel around the world": loading()
-    },
-    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code"]
-}
-
-console.log(RodyData)`
-
- <div>
+<div>
   <a href="https://github.com/GiPeTa">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiPeTa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiPeTa&theme=dark"/>
