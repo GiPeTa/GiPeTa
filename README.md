@@ -1,4 +1,3 @@
-```js
 const RodyData = {
     name: "Rodrigo Couto",
     age: 22,
@@ -15,7 +14,7 @@ const RodyData = {
     loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code"]
 }
 
-console.log(RodyData)```
+console.log(RodyData)
 
  <div>
   <a href="https://github.com/GiPeTa">
