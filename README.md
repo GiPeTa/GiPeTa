@@ -3,6 +3,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiPeTa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiPeTa&theme=dark"/>
 </div>
+# Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/439535908635541514)](https://discord.com/users/439535908635541514)
   <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Apple" height="30" width="30" src="https://i.imgur.com/gTCEJM3.png">
   <img align="center" alt="Gio-VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
